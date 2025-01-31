@@ -70,7 +70,7 @@ int from_strInt; // assign here
 
 // Convert the float floatNum into an integer.
 float floatNum = 56.715f;
-int from_floatNum; // assign here
+int from_floatNum  int
 
 // Convert the integer intNum into a float.
 int intNum = 1500;
